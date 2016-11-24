@@ -6,7 +6,10 @@ A estos datos en adelante los llamaremos "Xml de timbraje Electrónico", tambié
 
 Al ir al SII y solicitar timbraje de folios, el sii nos timbrará un rango de documentos, por ejemplo:
 El sii nos timbrara 100 folios desde el folio 1 al 100 y al realizar eso el sii nos entrega un xml con el timbraje electrónico CAF.
-Ejemplo de Xml con CAF:
+
+<b>Ejemplo de Xml con CAF ( ASI ES COMO VIENE DESDE EL SII):</b>
 https://github.com/FacTronica/TimbrajeElectronico/blob/master/EjemploTimbrajeFolios.xml
 
+<b>Ejemplo del Txt con CAF ( ASI ES COMO DEBE QUEDAR EN TXT FACTRONICA )</b>
+SDFSDFSD
 
