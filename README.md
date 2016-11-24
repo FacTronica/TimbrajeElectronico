@@ -11,5 +11,5 @@ El sii nos timbrara 100 folios desde el folio 1 al 100 y al realizar eso el sii 
 https://github.com/FacTronica/TimbrajeElectronico/blob/master/EjemploTimbrajeFolios.xml
 
 <b>Ejemplo del Txt con CAF ( ASI ES COMO DEBE QUEDAR EN TXT FACTRONICA )</b><BR>
-SDFSDFSD
+https://github.com/FacTronica/TimbrajeElectronico/blob/master/EjemploTimbrajeFolios.txt
 
